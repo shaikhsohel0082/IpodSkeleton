@@ -1,0 +1,20 @@
+.full-body-div {
+   position: fixed;
+   /* or absolute */
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background-color: rgb(0, 0, 0);
+   /* semi-transparent black background */
+   /* Additional styling can be added as needed */
+}
+
+.highlighted {
+   color: red;
+   border: 1px solid red;
+   padding: 5px;
+   width: 130px;
+   border-radius: 10px 10px;
+   background-color: #f7b2b2;
+}
